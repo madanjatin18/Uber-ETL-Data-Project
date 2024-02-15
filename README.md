@@ -2,7 +2,7 @@
 Performed data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture
-![](Reports_Screenshots/architecture.png)
+![](Screenshots/architecture.png)
 
 ## Technology Used
 - Programming Language - Python
@@ -10,7 +10,7 @@ Performed data analytics on Uber data using various tools and technologies, incl
 
 Google Cloud Platform
 1. Google Storage
-2. Compute Instance 
+2. Compute Instance  
 3. BigQuery
 4. Looker Studio
 
@@ -25,11 +25,10 @@ TLC Trip Record Data Yellow and green taxi trip records include fields capturing
 
 
 ## Data Model
-![](Reports_Screenshots/data_model.jpeg)
+![](Screenshots/UBER_ERD.jpeg)
 
 ## UBER Dashboard
-![](Reports_Screenshots/Uber_Dashboard_page-0001.jpg)
-![](Reports_Screenshots/Uber_Dashboard_page-0002.jpg)
+![](Screenshots/Uber_Dashboard%20(1)-1.png)
 
 
 ## References
